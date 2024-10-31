@@ -1,7 +1,7 @@
 
 # Hive
 
-Antes de empezar deberas clonar mi repositorio con el contenido necesario con los contenidos de docker
+Antes de empezar deberas clonar mi repositorio con el contenido necesario con los contenidos de docker para poder realizar los siguientes pasos
 ```bash
 git clone https://github.com/meellaadoo04/Hive.git
 ```
