@@ -2,7 +2,9 @@
 # Hive
 
 Antes de empezar deberas clonar mi repositorio con el contenido necesario con los contenidos de docker
-
+```bash
+git clone https://github.com/meellaadoo04/Hive.git
+```
 
 1.Primero creamos el docker-compose y ejecutamos el cluster 
 
