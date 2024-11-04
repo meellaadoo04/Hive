@@ -14,7 +14,7 @@ docker-compose up -docker
 
 2. Ejecutamos el contenedor de hive para poder acceder a la bash de ese contenedor
 ```bash
-docker exec -it docker-hive-hive-server-1 bash
+docker exec -it hive-hive-server-1 bash
 ````
 
 3. En esa bash escribimos hive para poder acceder a sus servicios
