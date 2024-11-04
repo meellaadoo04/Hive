@@ -28,7 +28,7 @@ create database jugadores_futbol;
 ```
 
 ```bash
-use jugadores_futbol
+use jugadores_futbol;
 ```
 
 5. Creamos una tabla en la base de datos
@@ -40,7 +40,7 @@ CREATE TABLE jugadores (
     posicion STRING,
     edad INT,
     goles INT
-)
+);
 ```
 
 6. Insertamos dentro de la tabla datos para poder realizar las consultas
