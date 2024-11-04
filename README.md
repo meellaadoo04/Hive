@@ -48,7 +48,7 @@ CREATE TABLE jugadores (
 INSERT INTO jugadores VALUES (1, 'Lionel Messi', 'Inter Miami', 'Delantero', 36, 800);
 INSERT INTO jugadores VALUES (2, 'Cristiano Ronaldo', 'Al-Nassr', 'Delantero', 39, 850);
 INSERT INTO jugadores VALUES (3, 'Neymar Jr', 'Al-Hilal', 'Delantero', 32, 400);
-INSERT INTO jugadores VALUES (4, 'Kylian Mbappé', 'PSG', 'Delantero', 24, 250);
+INSERT INTO jugadores VALUES (4, 'Kylian Mbappe', 'PSG', 'Delantero', 24, 250);
 INSERT INTO jugadores VALUES (5, 'Kevin De Bruyne', 'Manchester City', 'Mediocampista', 32, 100);
 ```
 
