@@ -57,7 +57,7 @@ INSERT INTO jugadores VALUES (5, 'Kevin De Bruyne', 'Manchester City', 'Mediocam
 
 7.1 Ver todos los jugadores 
 ```bash
-select * from jugadores
+select * from jugadores;
 ```
 
 7.2 Contar el número total de jugadores
